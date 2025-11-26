@@ -144,7 +144,7 @@ const Layout: React.FC<LayoutProps> = ({ children, currentView, setCurrentView }
           {/* Footer - Built by Ayan Saha */}
           <div className="mt-12 pb-4 text-center border-t border-gray-100 dark:border-gray-800 pt-6">
             <p className="text-sm text-gray-400 dark:text-gray-600 font-medium tracking-wide">
-              Build by Ayan Saha
+              Built by Ayan Saha
             </p>
           </div>
         </main>
